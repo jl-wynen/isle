@@ -9,7 +9,7 @@ from .. import initialize, cli
 from . import continuation
 
 ## Show at the end of help messages.
-EPILOG = "See https://github.com/jl-wynen/isle"
+EPILOG = "See https://github.com/evanberkowitz/isle"
 
 
 def _run_show(args):
